@@ -1,5 +1,5 @@
-YOLOv8 Object Detection System
-Project Overview
+YOLOv8 Object Detection System<br>
+Project Overview<br>
 This project implements an object detection system using the YOLOv8 deep learning model. The goal of the project is to design and optimize a pipeline capable of detecting multiple objects such as persons, vehicles, and traffic signs in images.
 
 The project demonstrates the complete workflow of object detection including dataset preparation, model training, evaluation, and inference.
